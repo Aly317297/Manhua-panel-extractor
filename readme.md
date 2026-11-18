@@ -1,4 +1,4 @@
-# Manhua Panel Extractor
+# Comic Panel Extractor
 
 A standalone Python CLI tool and library for splitting tall vertical manhua/webtoon strip images (PNG, JPG, WEBP) into individual panels and saving them to an output folder.
 
